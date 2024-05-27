@@ -3,7 +3,7 @@ from test_utils import testing
 
 """ Select the experiment to load the model from. """
 exp_name = 'TRIP_NO_SPARSE'
-experiment_number = 1
+experiment_number = 5
 
 """ Enable printing effective MACs. """
 print_MACs = True
