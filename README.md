@@ -1,3 +1,5 @@
+This is the code for the research paper [TRIP: Trainable Region-of-Interest Prediction for Event-based Vision](https://ieeexplore.ieee.org/abstract/document/10766546/).
+
 # TRIP - Trainable Region-of-Interest Prediction for Event-based Vision
 
 This package is the PyTorch implementation of the **T**rainable **R**egion-of-**I**nterest **P**rediction (**TRIP**) algorithm. The algorithm trains a two-stage event-based neural network in an end-to-end fashion for hardware-efficient neuromorphic processing on event-based vision classification. The two-stage network consists of an ROI prediction network and a classification network.
